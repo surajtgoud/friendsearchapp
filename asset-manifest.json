@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/friendsearchapp/static/css/main.03e6d29f.chunk.css",
+    "main.js": "/friendsearchapp/static/js/main.0fa24a55.chunk.js",
+    "main.js.map": "/friendsearchapp/static/js/main.0fa24a55.chunk.js.map",
+    "runtime~main.js": "/friendsearchapp/static/js/runtime~main.5a02ff91.js",
+    "runtime~main.js.map": "/friendsearchapp/static/js/runtime~main.5a02ff91.js.map",
+    "static/css/2.3b2cfc2e.chunk.css": "/friendsearchapp/static/css/2.3b2cfc2e.chunk.css",
+    "static/js/2.9858653f.chunk.js": "/friendsearchapp/static/js/2.9858653f.chunk.js",
+    "static/js/2.9858653f.chunk.js.map": "/friendsearchapp/static/js/2.9858653f.chunk.js.map",
+    "index.html": "/friendsearchapp/index.html",
+    "precache-manifest.625ee536fe0a2dc349a7a66a01887598.js": "/friendsearchapp/precache-manifest.625ee536fe0a2dc349a7a66a01887598.js",
+    "service-worker.js": "/friendsearchapp/service-worker.js",
+    "static/css/2.3b2cfc2e.chunk.css.map": "/friendsearchapp/static/css/2.3b2cfc2e.chunk.css.map",
+    "static/css/main.03e6d29f.chunk.css.map": "/friendsearchapp/static/css/main.03e6d29f.chunk.css.map",
+    "static/media/App.css": "/friendsearchapp/static/media/SEGA.12a3db8b.woff"
+  }
+}
